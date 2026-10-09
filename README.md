@@ -91,41 +91,8 @@ Live: https://pet-adoption-platform-a188.vercel.app/
 
 ---
 
-## GitHub Statistics
 
 
-
-<p align="center">
-  <img src="./profile/stats.svg" height="170"/>
-  <img src="./profile/top-langs.svg" height="170"/>
-</p>
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="./profile/trophy.svg" />
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siamparvezcodes&hide_border=true" />
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<div align="center">
 
 ### Thanks for visiting my profile.
 
