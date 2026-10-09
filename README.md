@@ -4,7 +4,7 @@
 # Md. Siam Parvez
 ### Full Stack Web Developer
 
-Building scalable web applications and exploring AI
+Building scalable web applications
 
 <p>
   <a href="https://github.com/siamparvezcodes">
@@ -64,7 +64,7 @@ Full Stack Web Developer with experience building modern web applications using 
 * Problem Solving
 * Competitive Programming
 * Software Engineering
-* Artificial Intelligence
+
 
 ---
 
